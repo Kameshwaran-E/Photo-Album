@@ -10,7 +10,9 @@ https://kameshwaran-photo-album.netlify.app/
 
 ## Installation
 git clone https://github.com/Kameshwaran-E/Photo-Album
+
 cd Photo-Album
+
 npm install
 
 
