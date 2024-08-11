@@ -5,18 +5,16 @@
 - npm (>= 6.x)
 - React 18
 
-## Installation
-1. Clone the repository:
+## Preview
+https://kameshwaran-photo-album.netlify.app/
 
-   git clone <REPOSITORY_URL>
-2. Navigate to the project directory:
-   cd image-gallery
-3. Install dependencies:
-   npm install
+## Installation
+git clone https://github.com/Kameshwaran-E/Photo-Album
+cd Photo-Album
+npm install
+
 
 ## Running the project
-    Start the development server:
-
     npm start
 
 ## Project Structure
