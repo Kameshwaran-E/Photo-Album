@@ -1,0 +1,17 @@
+/* HeaderCarousel.css */
+.carousel {
+    margin: 0 auto; 
+    width: 100%; 
+  }
+  
+  .carousel-item img {
+    max-height: 300px;
+    object-fit: cover;  
+    border-radius: 20px;
+  }
+
+  .carousel-container {
+    margin: 20px;
+   
+  }
+  

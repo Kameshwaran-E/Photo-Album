@@ -1,0 +1,18 @@
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+  }
+  
+  
+  .image-container img:hover {
+    width: 100%;
+    height: auto;
+    display: block;
+    transform: scale(1.10); /* Slightly zoom in */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.10);
+    transition: opacity 0.3s ease-in-out; /* Smooth transition for opacity changes */
+  }
+  
+ 
