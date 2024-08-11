@@ -30,6 +30,9 @@ The project uses the Picsum API to fetch random images. This API is great for ge
 
 ## Key Features
 Fetching Images: Images are fetched from the Picsum API using the fetch method in React’s useEffect hook.
+
 Pagination: The gallery supports pagination with "Previous" and "Next" buttons, allowing users to navigate through different pages of images.
+
 Shimmer Effect: A shimmer loading effect is displayed while the images are being fetched, enhancing the user experience.
+
 Responsive Design: The layout is responsive, making use of Bootstrap for grid and component styling.
